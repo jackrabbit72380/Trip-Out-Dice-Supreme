@@ -2,4 +2,8 @@ Trip-Out-Dice-Supreme by Jackrabbit72380
 
 ![Screenshot]([https://github.com/jackrabbit72380/Trip-Out-Dice-Supreme/Preview.jpg](https://github.com/jackrabbit72380/Trip-Out-Dice-Supreme/blob/main/Preview.jpg)[Screenshot]
 
+
+## Screenshots
+
+![Screenshot]([https://github.com/jackrabbit72380/Trip-Out-Dice-Supreme/blob/main/Preview.jpg)
  
